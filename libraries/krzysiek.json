@@ -1,21 +1,6 @@
 {
-  "version": 1,
-  "presets": [
-    {
-      "name": "Ignition ON",
-      "target": "40",
-      "commands": [
-        "22 25 31",
-        "31 01 10 31 07 07 D1",
-        "31 01 AC 51 03"
-      ]
-    },
-    {
-      "name": "Clear DTCs",
-      "target": "DF",
-      "commands": [
-        "14 FF FF FF"
-      ]
-    }
-  ]
+  "library": "KRZYSIEK",
+  "updated_at": "",
+  "updated_by": "",
+  "presets": []
 }
