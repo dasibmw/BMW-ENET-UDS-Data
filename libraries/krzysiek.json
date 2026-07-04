@@ -1,6 +1,25 @@
 {
   "library": "KRZYSIEK",
   "updated_at": "",
-  "updated_by": "",
-  "presets": []
+  "updated_by": "dasibmw",
+  "presets": [
+    {
+      "name": "Ignition ON",
+      "target": "40",
+      "uds": "31 01 10 01 0A 0A 43",
+      "note": "User-provided routine request"
+    },
+    {
+      "name": "Clear DTCs",
+      "target": "DF",
+      "uds": "14 FF FF FF",
+      "note": "Clear DTC group FFFFFF"
+    },
+    {
+      "name": "ECU Reset",
+      "target": "63",
+      "uds": "11 01",
+      "note": "Hard reset request"
+    }
+  ]
 }
