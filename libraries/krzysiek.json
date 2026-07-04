@@ -10,12 +10,6 @@
       "note": "User-provided routine request"
     },
     {
-      "name": "Clear DTCs",
-      "target": "DF",
-      "uds": "14 FF FF FF",
-      "note": "Clear DTC group FFFFFF"
-    },
-    {
       "name": "ECU Reset",
       "target": "63",
       "uds": "11 01",
