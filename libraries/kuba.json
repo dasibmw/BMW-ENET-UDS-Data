@@ -1,7 +1,7 @@
 {
   "library": "KUBA",
-  "updated_at": "",
-  "updated_by": "dasibmw",
+  "updated_at": "2026-07-05T11:35:11+00:00",
+  "updated_by": "KUBA",
   "presets": [
     {
       "name": "Ignition ON",
@@ -20,6 +20,12 @@
       "target": "63",
       "uds": "11 01",
       "note": "Hard reset request"
+    },
+    {
+      "name": "X",
+      "target": "63",
+      "uds": "22 F1 90",
+      "note": ""
     }
   ]
 }
