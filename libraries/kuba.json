@@ -1,6 +1,6 @@
 {
   "library": "KUBA",
-  "updated_at": "2026-07-05T11:41:53+00:00",
+  "updated_at": "2026-07-05T11:42:01+00:00",
   "updated_by": "KUBA",
   "presets": [
     {
@@ -20,12 +20,6 @@
       "target": "63",
       "uds": "11 01",
       "note": "Hard reset request"
-    },
-    {
-      "name": "X",
-      "target": "63",
-      "uds": "22 F1 90",
-      "note": ""
     }
   ]
 }
