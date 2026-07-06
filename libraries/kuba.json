@@ -1,6 +1,6 @@
 {
   "library": "KUBA",
-  "updated_at": "2026-07-06T09:14:08+00:00",
+  "updated_at": "2026-07-06T10:22:11+00:00",
   "updated_by": "KUBA",
   "presets": [
     {
@@ -16,10 +16,10 @@
       "note": "Clear DTC group FFFFFF"
     },
     {
-      "name": "ECU Reset",
+      "name": "HU Reset",
       "target": "63",
       "uds": "11 01",
-      "note": "Hard reset request"
+      "note": ""
     }
   ]
 }
