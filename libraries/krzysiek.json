@@ -1,7 +1,7 @@
 {
   "library": "KRZYSIEK",
-  "updated_at": "",
-  "updated_by": "dasibmw",
+  "updated_at": "2026-07-06T11:09:49+00:00",
+  "updated_by": "KRZYSIEK",
   "presets": [
     {
       "name": "Ignition ON",
@@ -14,6 +14,12 @@
       "target": "63",
       "uds": "11 01",
       "note": "Hard reset request"
+    },
+    {
+      "name": "Check EWS state",
+      "target": "18",
+      "uds": "22 C0 00",
+      "note": "00 [80] 00  is locked"
     }
   ]
 }
