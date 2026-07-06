@@ -1,6 +1,6 @@
 {
   "library": "KRZYSIEK",
-  "updated_at": "2026-07-06T11:09:49+00:00",
+  "updated_at": "2026-07-06T11:11:12+00:00",
   "updated_by": "KRZYSIEK",
   "presets": [
     {
@@ -20,6 +20,24 @@
       "target": "18",
       "uds": "22 C0 00",
       "note": "00 [80] 00  is locked"
+    },
+    {
+      "name": "Clear FSC NBT ID3",
+      "target": "63",
+      "uds": "31 01 FD E4",
+      "note": ""
+    },
+    {
+      "name": "MGU Read IP",
+      "target": "63",
+      "uds": "22 17 2A",
+      "note": ""
+    },
+    {
+      "name": "Clear DTC",
+      "target": "DF",
+      "uds": "14 FF FF FF",
+      "note": ""
     }
   ]
 }
