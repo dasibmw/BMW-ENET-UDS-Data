@@ -1,6 +1,6 @@
 {
   "library": "KUBA",
-  "updated_at": "2026-07-06T14:35:34+00:00",
+  "updated_at": "2026-07-07T11:34:58+00:00",
   "updated_by": "KUBA",
   "presets": [
     {
@@ -32,6 +32,12 @@
       "target": "0F",
       "uds": "31 01 AB 63",
       "note": "po flashu"
+    },
+    {
+      "name": "Transport Mode OFF",
+      "target": "DF",
+      "uds": "31 01 0F 0C 00",
+      "note": "Energiesparemode z T32 ALL;0x00"
     }
   ]
 }
