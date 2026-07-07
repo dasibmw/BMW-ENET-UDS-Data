@@ -1,10 +1,10 @@
 {
   "library": "ADAM",
-  "updated_at": "2026-07-06T20:27:53+00:00",
+  "updated_at": "2026-07-07T20:27:54+00:00",
   "updated_by": "ADAM",
   "presets": [
     {
-      "name": "PROSZE DODAC PRESETY HERR BURY",
+      "name": "XD ON",
       "target": "40",
       "uds": "31 01 10 01 0A 0A 43",
       "note": "User-provided routine request"
