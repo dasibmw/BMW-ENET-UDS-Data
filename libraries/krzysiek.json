@@ -1,18 +1,18 @@
 {
   "library": "KRZYSIEK",
-  "updated_at": "2026-07-08T09:04:08+00:00",
+  "updated_at": "2026-07-08T17:09:29+00:00",
   "updated_by": "KRZYSIEK",
   "presets": [
     {
       "name": "Ignition ON",
       "target": "40",
-      "uds": "31 01 10 01 0A 0A 43",
+      "uds": "31 01 10 01 0A 0A 43; 31 01 AC 51 03",
       "note": "User-provided routine request"
     },
     {
       "name": "Ignition ON (BCP)",
       "target": "10",
-      "uds": "31 01 10 01 0A 0A 43",
+      "uds": "31 01 10 31 07 07 D1; 31 01 AC 51 03",
       "note": ""
     },
     {
