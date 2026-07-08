@@ -1,6 +1,6 @@
 {
   "library": "KRZYSIEK",
-  "updated_at": "2026-07-08T17:09:29+00:00",
+  "updated_at": "2026-07-08T17:10:05+00:00",
   "updated_by": "KRZYSIEK",
   "presets": [
     {
@@ -55,6 +55,12 @@
       "name": "Close SSH [EntryNav2]",
       "target": "63",
       "uds": "31 01 A0 FC",
+      "note": ""
+    },
+    {
+      "name": "Transportmode OFF",
+      "target": "DF",
+      "uds": "31 01 0F 0C 00",
       "note": ""
     }
   ]
