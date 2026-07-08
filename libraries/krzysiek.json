@@ -1,6 +1,6 @@
 {
   "library": "KRZYSIEK",
-  "updated_at": "2026-07-07T09:04:06+00:00",
+  "updated_at": "2026-07-08T09:04:08+00:00",
   "updated_by": "KRZYSIEK",
   "presets": [
     {
@@ -8,6 +8,12 @@
       "target": "40",
       "uds": "31 01 10 01 0A 0A 43",
       "note": "User-provided routine request"
+    },
+    {
+      "name": "Ignition ON (BCP)",
+      "target": "10",
+      "uds": "31 01 10 01 0A 0A 43",
+      "note": ""
     },
     {
       "name": "ECU Reset",
