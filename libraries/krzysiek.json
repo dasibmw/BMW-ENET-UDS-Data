@@ -1,6 +1,6 @@
 {
   "library": "KRZYSIEK",
-  "updated_at": "2026-07-13T09:50:30+00:00",
+  "updated_at": "2026-07-13T13:59:09+00:00",
   "updated_by": "KRZYSIEK",
   "presets": [
     {
@@ -68,6 +68,12 @@
       "target": "10",
       "uds": "BF FF FA 17 00 00 20 00; BF FF FA 1A 00 00 20 00; BF FF FA 1C 00 00 20 00; BF FF FA 1E 00 00 20 00",
       "note": "For Coding/Flashing Only"
+    },
+    {
+      "name": "EME G20/G30 ISN RESET",
+      "target": "3A",
+      "uds": "2E C0 01 07",
+      "note": "ADD ISN AT END OF PAYLOAD"
     }
   ]
 }
