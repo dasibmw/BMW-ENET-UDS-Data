@@ -1,6 +1,6 @@
 {
   "library": "KUBA",
-  "updated_at": "2026-07-13T10:09:10+00:00",
+  "updated_at": "2026-07-13T10:09:21+00:00",
   "updated_by": "KUBA",
   "presets": [
     {
@@ -52,7 +52,7 @@
       "note": ""
     },
     {
-      "name": "OBD FIREWALL INIT",
+      "name": "OBD Firewall Init",
       "target": "10",
       "uds": "31 01 12 01",
       "note": ""
