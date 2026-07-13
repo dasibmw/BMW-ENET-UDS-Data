@@ -1,6 +1,6 @@
 {
   "library": "KUBA",
-  "updated_at": "2026-07-13T06:22:39+00:00",
+  "updated_at": "2026-07-13T10:09:10+00:00",
   "updated_by": "KUBA",
   "presets": [
     {
@@ -49,6 +49,12 @@
       "name": "Provinsioning MGU",
       "target": "63",
       "uds": "31 01 A0 2F",
+      "note": ""
+    },
+    {
+      "name": "OBD FIREWALL INIT",
+      "target": "10",
+      "uds": "31 01 12 01",
       "note": ""
     }
   ]
