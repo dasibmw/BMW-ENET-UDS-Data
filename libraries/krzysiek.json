@@ -1,6 +1,6 @@
 {
   "library": "KRZYSIEK",
-  "updated_at": "2026-07-15T13:36:57+00:00",
+  "updated_at": "2026-07-15T19:31:31+00:00",
   "updated_by": "KRZYSIEK",
   "presets": [
     {
@@ -80,6 +80,12 @@
       "target": "17",
       "uds": "31 01 11 00; 22 80 02",
       "note": "17 1a 1c 1e"
+    },
+    {
+      "name": "FlexRay F-series init",
+      "target": "10",
+      "uds": "31 01 F7 7F 00 C8 13 88",
+      "note": ""
     }
   ]
 }
