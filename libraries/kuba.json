@@ -1,6 +1,6 @@
 {
   "library": "KUBA",
-  "updated_at": "2026-07-17T07:13:15+00:00",
+  "updated_at": "2026-07-17T09:23:59+00:00",
   "updated_by": "KUBA",
   "presets": [
     {
@@ -55,6 +55,42 @@
       "name": "OBD Firewall Init",
       "target": "10",
       "uds": "31 01 12 01",
+      "note": ""
+    },
+    {
+      "name": "Kurzschluss Reset 0xFE",
+      "target": "40",
+      "uds": "31 01 A5 33 FE",
+      "note": ""
+    },
+    {
+      "name": "Matrix",
+      "target": "43",
+      "uds": "2E E3 ED 00",
+      "note": "2e e3 ed 00 (po tym Matrix)"
+    },
+    {
+      "name": "Odczyt CC KOMBI",
+      "target": "60",
+      "uds": "22 25 21",
+      "note": ""
+    },
+    {
+      "name": "Starter Lock F STEP1",
+      "target": "12",
+      "uds": "22 40 2B; 22 40 23",
+      "note": ""
+    },
+    {
+      "name": "Starter Lock F STEP2",
+      "target": "40",
+      "uds": "22 F1 50; 22 F1 50; 2E DA B9 00",
+      "note": ""
+    },
+    {
+      "name": "Starter Lock G",
+      "target": "40",
+      "uds": "2E DA B9 00; 2E DA B9 00; 22 DA B9; 22 DA B9",
       "note": ""
     }
   ]
