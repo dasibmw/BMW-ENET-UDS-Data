@@ -1,6 +1,6 @@
 {
   "library": "KUBA",
-  "updated_at": "2026-07-23T07:30:49+00:00",
+  "updated_at": "2026-07-24T10:08:18+00:00",
   "updated_by": "KUBA",
   "presets": [
     {
@@ -91,6 +91,12 @@
       "name": "Starter Lock G",
       "target": "40",
       "uds": "2E DA B9 00; 2E DA B9 00; 22 DA B9; 22 DA B9",
+      "note": ""
+    },
+    {
+      "name": "Odczyt CC",
+      "target": "60",
+      "uds": "22 25 21",
       "note": ""
     }
   ]
