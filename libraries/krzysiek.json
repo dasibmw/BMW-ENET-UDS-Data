@@ -1,6 +1,6 @@
 {
   "library": "KRZYSIEK",
-  "updated_at": "2026-07-30T13:52:40+00:00",
+  "updated_at": "2026-07-31T13:52:41+00:00",
   "updated_by": "KRZYSIEK",
   "presets": [
     {
@@ -91,6 +91,12 @@
       "name": "IFM Crash Reset",
       "target": "1D",
       "uds": "31 01 A6 AE",
+      "note": ""
+    },
+    {
+      "name": "IHKA Supra RemoteStart Check",
+      "target": "78",
+      "uds": "2E E4 10 01",
       "note": ""
     }
   ]
