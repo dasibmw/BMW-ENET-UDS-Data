@@ -1,6 +1,6 @@
 {
   "library": "KRZYSIEK",
-  "updated_at": "2026-08-03T07:23:36+00:00",
+  "updated_at": "2026-08-03T12:06:50+00:00",
   "updated_by": "KRZYSIEK",
   "presets": [
     {
@@ -97,6 +97,12 @@
       "name": "IHKA Supra RemoteStart Check",
       "target": "78",
       "uds": "2E E4 10 01",
+      "note": ""
+    },
+    {
+      "name": "SCHUTZ FREIGABE HVS",
+      "target": "07",
+      "uds": "2E DD 61 01; 11 01",
       "note": ""
     }
   ]
