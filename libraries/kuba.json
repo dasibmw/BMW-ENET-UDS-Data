@@ -1,6 +1,6 @@
 {
   "library": "KUBA",
-  "updated_at": "2026-08-02T09:54:38+00:00",
+  "updated_at": "2026-08-03T15:51:13+00:00",
   "updated_by": "KUBA",
   "presets": [
     {
@@ -97,6 +97,18 @@
       "name": "Odczyt CC",
       "target": "60",
       "uds": "22 25 21",
+      "note": ""
+    },
+    {
+      "name": "RSU - usuniecie bledu",
+      "target": "40",
+      "uds": "31 01 A5 F1 01 01 03",
+      "note": ""
+    },
+    {
+      "name": "Zablokowanie ACSM5",
+      "target": "01",
+      "uds": "2E D4 82 00",
       "note": ""
     }
   ]
