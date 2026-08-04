@@ -1,6 +1,6 @@
 {
   "library": "KRZYSIEK",
-  "updated_at": "2026-08-04T07:23:38+00:00",
+  "updated_at": "2026-08-04T10:56:19+00:00",
   "updated_by": "KRZYSIEK",
   "presets": [
     {
@@ -103,6 +103,18 @@
       "name": "SCHUTZ FREIGABE HVS",
       "target": "07",
       "uds": "2E DD 61 01; 11 01",
+      "note": ""
+    },
+    {
+      "name": "IPSEC START",
+      "target": "63",
+      "uds": "31 01 11 11",
+      "note": ""
+    },
+    {
+      "name": "IPSEC LOCK & STOP",
+      "target": "63",
+      "uds": "31 01 11 13; 31 01 11 12",
       "note": ""
     }
   ]
