@@ -1,6 +1,6 @@
 {
   "library": "KRZYSIEK",
-  "updated_at": "2026-08-09T19:36:08+00:00",
+  "updated_at": "2026-08-10T19:36:09+00:00",
   "updated_by": "KRZYSIEK",
   "presets": [
     {
@@ -115,6 +115,12 @@
       "name": "IPSEC LOCK & STOP",
       "target": "63",
       "uds": "31 01 11 13; 31 01 11 12",
+      "note": ""
+    },
+    {
+      "name": "Odczyt motogodzin",
+      "target": "12",
+      "uds": "22 58 3D",
       "note": ""
     }
   ]
