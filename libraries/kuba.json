@@ -1,6 +1,6 @@
 {
   "library": "KUBA",
-  "updated_at": "2026-08-23T09:24:18+00:00",
+  "updated_at": "2026-08-24T07:09:57+00:00",
   "updated_by": "KUBA",
   "presets": [
     {
@@ -12,6 +12,12 @@
     {
       "name": "DME Reset",
       "target": "12",
+      "uds": "11 01",
+      "note": ""
+    },
+    {
+      "name": "DME2 Reset",
+      "target": "13",
       "uds": "11 01",
       "note": ""
     },
