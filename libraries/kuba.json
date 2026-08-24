@@ -1,6 +1,6 @@
 {
   "library": "KUBA",
-  "updated_at": "2026-08-24T09:24:20+00:00",
+  "updated_at": "2026-08-24T09:25:31+00:00",
   "updated_by": "KUBA",
   "presets": [
     {
@@ -122,6 +122,12 @@
       "target": "63",
       "uds": "31 01 A1 09",
       "note": ""
+    },
+    {
+      "name": "Dopisanie MDG1",
+      "target": "12",
+      "uds": "2E C0 04",
+      "note": "dodac isn +invert isn + sk + invert sk"
     }
   ]
 }
