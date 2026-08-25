@@ -1,6 +1,6 @@
 {
   "library": "KUBA",
-  "updated_at": "2026-08-24T09:25:32+00:00",
+  "updated_at": "2026-08-25T09:04:26+00:00",
   "updated_by": "KUBA",
   "presets": [
     {
@@ -42,7 +42,7 @@
     {
       "name": "GHAS INIT F8X",
       "target": "0F",
-      "uds": "31 01 AB 63",
+      "uds": "31 01 AB 63; 31 01 AB 63; 31 01 AB 63",
       "note": "po flashu"
     },
     {
