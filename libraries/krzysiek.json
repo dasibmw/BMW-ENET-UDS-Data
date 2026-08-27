@@ -1,6 +1,6 @@
 {
   "library": "KRZYSIEK",
-  "updated_at": "2026-08-27T07:35:57+00:00",
+  "updated_at": "2026-08-27T21:16:44+00:00",
   "updated_by": "KRZYSIEK",
   "presets": [
     {
@@ -121,6 +121,12 @@
       "name": "Odczyt motogodzin",
       "target": "12",
       "uds": "22 58 3D",
+      "note": ""
+    },
+    {
+      "name": "Kurzschluss FEM/BDC",
+      "target": "40",
+      "uds": "31 01 A5 33 FE",
       "note": ""
     }
   ]
