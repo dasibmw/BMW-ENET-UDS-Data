@@ -1,6 +1,6 @@
 {
   "library": "KRZYSIEK",
-  "updated_at": "2026-08-27T21:17:18+00:00",
+  "updated_at": "2026-08-27T21:17:53+00:00",
   "updated_by": "KRZYSIEK",
   "presets": [
     {
@@ -133,6 +133,12 @@
       "name": "ACSM5 Lock after flash",
       "target": "01",
       "uds": "2E D4 82 00",
+      "note": ""
+    },
+    {
+      "name": "CC Kombi Read",
+      "target": "60",
+      "uds": "22 25 21",
       "note": ""
     }
   ]
