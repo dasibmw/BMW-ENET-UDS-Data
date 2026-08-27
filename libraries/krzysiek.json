@@ -1,6 +1,6 @@
 {
   "library": "KRZYSIEK",
-  "updated_at": "2026-08-27T21:16:44+00:00",
+  "updated_at": "2026-08-27T21:17:18+00:00",
   "updated_by": "KRZYSIEK",
   "presets": [
     {
@@ -127,6 +127,12 @@
       "name": "Kurzschluss FEM/BDC",
       "target": "40",
       "uds": "31 01 A5 33 FE",
+      "note": ""
+    },
+    {
+      "name": "ACSM5 Lock after flash",
+      "target": "01",
+      "uds": "2E D4 82 00",
       "note": ""
     }
   ]
