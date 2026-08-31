@@ -1,6 +1,6 @@
 {
   "library": "KUBA",
-  "updated_at": "2026-08-30T11:19:28+00:00",
+  "updated_at": "2026-08-31T14:43:25+00:00",
   "updated_by": "KUBA",
   "presets": [
     {
@@ -128,6 +128,12 @@
       "target": "12",
       "uds": "2E C0 04",
       "note": "dodac isn +invert isn + sk + invert sk"
+    },
+    {
+      "name": "Iginition ON F",
+      "target": "40",
+      "uds": "31 01 10 01 0A 0A 43; 31 01 AC 51 03",
+      "note": ""
     }
   ]
 }
