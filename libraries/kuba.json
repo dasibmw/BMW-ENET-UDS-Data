@@ -1,6 +1,6 @@
 {
   "library": "KUBA",
-  "updated_at": "2026-09-01T09:29:10+00:00",
+  "updated_at": "2026-09-01T10:54:59+00:00",
   "updated_by": "KUBA",
   "presets": [
     {
@@ -134,6 +134,18 @@
       "target": "40",
       "uds": "31 01 10 01 0A 0A 43; 31 01 AC 51 03",
       "note": ""
+    },
+    {
+      "name": "standaryzacja fotela kierowcy 0x6D",
+      "target": "6D",
+      "uds": "31 01 A7 03",
+      "note": "(pytanie czy sie skonczyla; 31 03 A7 03)"
+    },
+    {
+      "name": "standaryzacja fotela kierowcy 0x6D (check)",
+      "target": "6D",
+      "uds": "31 03 A7 03",
+      "note": "to koniec; 6D F4 71 03 A7 03 01 00 0A F0 F0 02 FD FD 22 20"
     }
   ]
 }
