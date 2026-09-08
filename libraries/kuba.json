@@ -1,6 +1,6 @@
 {
   "library": "KUBA",
-  "updated_at": "2026-09-08T09:23:32+00:00",
+  "updated_at": "2026-09-08T09:29:21+00:00",
   "updated_by": "KUBA",
   "presets": [
     {
@@ -133,18 +133,6 @@
       "name": "Iginition ON F",
       "target": "40",
       "uds": "31 01 10 01 0A 0A 43; 31 01 AC 51 03",
-      "note": ""
-    },
-    {
-      "name": "EWS EGS",
-      "target": "18",
-      "uds": "22 C0 00",
-      "note": ""
-    },
-    {
-      "name": "RESET EGS",
-      "target": "18",
-      "uds": "11 01",
       "note": ""
     }
   ]
